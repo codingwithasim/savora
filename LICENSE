@@ -1,0 +1,56 @@
+MIT License
+
+Copyright (c) 2024 Savora Restaurant Landing Page
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Terms for Commercial Use
+
+While this project is open source under the MIT License, if you plan to use 
+this code for commercial restaurant websites, we kindly request that you:
+
+1. **Attribution**: Include a credit/mention to the original Savora project
+2. **Customization**: Modify the design significantly to make it unique to your brand
+3. **Images**: Replace all stock images with your own professional photography
+4. **Content**: Update all text content to reflect your restaurant's story and offerings
+
+## Third-Party Assets
+
+This project uses images from Unsplash.com which are provided under the 
+Unsplash License (https://unsplash.com/license). Please ensure compliance 
+with their terms when using or redistributing these images.
+
+## Fonts
+
+- **Playfair Display**: Available under the SIL Open Font License
+- **Inter**: Available under the SIL Open Font License
+
+Both fonts are free for commercial and personal use.
+
+## Icons
+
+Icons provided by Lucide (https://lucide.dev) under the ISC License.
+
+---
+
+**For questions about licensing or commercial use, please contact:**
+- Email: your-email@domain.com
+- GitHub: https://github.com/yourusername/savora-restaurant
