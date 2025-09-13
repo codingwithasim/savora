@@ -289,7 +289,7 @@ export default function ReservationSection() {
                   </motion.button>
                   
                   <p className="text-charcoal/50 text-xs leading-relaxed">
-                    You'll receive a confirmation email within 15 minutes. For same-day reservations, please call us directly.
+                    You&apos;ll receive a confirmation email within 15 minutes. For same-day reservations, please call us directly.
                   </p>
                 </div>
               </motion.div>
